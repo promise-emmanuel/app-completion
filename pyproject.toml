@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "app-completion"
+version = "0.1.0"
+description = ""
+authors = ["Promise Igbojionu <promiseemmanuel2019@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+openai = "^1.59.6"
+python-dotenv = "^1.0.1"
+flask = "^3.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
