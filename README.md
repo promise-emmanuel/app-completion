@@ -3,8 +3,7 @@ As a software developer, I aim to deepen my understanding of artificial intellig
 This app allows users to quickly grasp the essential points of a document without needing to read the entire content.
 The purpose of this software is to provide users with a tool that can efficiently summarize articles, research papers, or any text-based content.
 
-- [Software Demo Video - youtube](https://youtu.be/13xwyRpyGCA)
-- [Software Demo Video - Vimeo](https://vimeo.com/1046012204/9a6ebab705?share=copy)
+- [Software Demo Video - youtube](https://youtu.be/ywZQ0Kzf1ZE)
 
 # Development Environment
 
