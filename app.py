@@ -20,7 +20,7 @@ def index():
         """
         messages = [{"role":"user", "content":prompt}]        
         response = client.chat.completions.create(model=model, messages=messages)
-        return render_template('index.html', query=query[:100], response=response.choices[0].message.content)
+        return render_template('index.html', query="Hello World!", response=response.choices[0].message.content)
     return render_template('index.html')
 
 if __name__ =="__main__":
